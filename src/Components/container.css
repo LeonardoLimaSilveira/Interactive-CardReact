@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+  .imgFront{
+    width: 350px;
+    height: 210px;
+  }
+  .divFrontCard{
+    margin:0;
+    top: 20px;
+    width: 350px !important;
+    height: 200px !important;
+  }
+  .cardnumbers{
+    width: 90% !important;
+    font-size:18px !important;
+  }
+  .dateFront{
+    width: 90%;
+  }
+  .imgBack{
+    width: 350px !important;
+    height: 200px !important;
+    margin-left:20px;
+    margin-right: 20px;
+  }
+  .divCardBack{
+    width: 350px !important;
+    height: 200px !important;
+    
+  }
+  .cvc{
+    right:-40px !important;
+  }
+}
